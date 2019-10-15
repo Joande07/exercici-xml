@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aplicacions>
+    <aplicacio>
+        <nom codi="1">netflix</nom>
+        <descripcio>veure series </descripcio>
+        <tipus>video </tipus>
+        <fabricant>Reed Hastings </fabricant>
+    </aplicacio>
+    <aplicacio>
+        <nom codi="2"> whatsapp </nom>
+        <descripcio> xatejar </descripcio>
+        <tipus>missatges</tipus>
+        <fabricant>Brian Acton</fabricant>
+    </aplicacio>
+    <aplicacio>
+        <nom codi="3">youtube</nom>
+        <descripcio> veure videos </descripcio>
+        <tipus> video </tipus>
+        <fabricant> Steve Chen </fabricant>
+    </aplicacio>
+    <aplicacio>
+        <nom codi="4"> instagram </nom>
+        <descripcio> penjar imatges </descripcio>
+        <tipus> imatges </tipus>
+        <fabricant> Kevin Systrom </fabricant>
+    </aplicacio>
+    <aplicacio>
+        <nom codi="5"> twitter </nom>
+        <descripcio> xatejar </descripcio>
+        <tipus> missatges </tipus>
+        <fabricant> Jack Dorsey </fabricant>
+    </aplicacio>
+    <aplicacio>
+        <nom codi="6"> spotify </nom>
+        <descripcio> escoltar musica </descripcio>
+        <tipus> musica </tipus>
+        <fabricant> Martin Lorentzon </fabricant>
+    </aplicacio>
+    <aplicacio>
+        <nom codi="7"> discord </nom>
+        <descripcio> crida i xatejar </descripcio>
+        <tipus> missatges </tipus>
+        <fabricant> Jason Citron </fabricant>
+    </aplicacio>
+    <aplicacio>
+        <nom codi="8"> the weather </nom>
+        <descripcio> aplicacio per el temps </descripcio>
+        <tipus> temps </tipus>
+        <fabricant> John Coleman </fabricant>
+    </aplicacio>
+    <aplicacio>
+        <nom codi="9"> marca </nom>
+        <descripcio> pagina de noticies esportives </descripcio>
+        <tipus> noticies esportives </tipus>
+        <fabricant>  Manuel Fernández-Cuesta Merelo </fabricant>
+    </aplicacio>
+    <aplicacio>
+        <nom codi="10"> sport </nom>
+        <descripcio> pagina de noticies esportives </descripcio>
+        <tipus> noticies esportives </tipus>
+        <fabricant> Grupo z </fabricant>
+    </aplicacio>
+</aplicacions>
